@@ -1,0 +1,21 @@
+{
+  "compilerOptions": {
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true,
+    "lib": [
+      "ES2021",
+      "dom",
+      "dom.iterable",
+      "esnext",
+      "webworker"
+    ],
+    "esModuleInterop": true,
+    "resolveJsonModule": true,
+    "moduleResolution": "Node",
+    "target": "ES2021",
+    "jsx": "react"
+  },
+  "include": [
+    "src"
+  ]
+}
